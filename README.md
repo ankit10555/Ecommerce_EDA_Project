@@ -1,10 +1,16 @@
 # Ecommerce_EDA_Project
-The Project data was taken from kaggle 
-First Data cleaning was conducted and was checked for outliers.Then the EDA was conducted on the following parameters:
+Dataset taken from Kaggle and these explorations were performed:
 
-1.Order Trend analysis was done over month, year and days
-2.Shipping cost analysis
-3.Sales analysis
-4.Region-wise Customer Segmentation  
+- Data Cleaning
 
-and inference were made accordingly.  
+- Outliers detection and correction
+
+1. Order Trend Analysis was done over month, year and days
+
+2. Shipping cost analysis
+
+3. Sales analysis
+
+4. Region-wise Customer Segmentation 
+
+And inferences were made accordingly... 
