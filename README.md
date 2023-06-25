@@ -7,4 +7,4 @@ First Data cleaning was conducted and was checked for outliers.Then the EDA was 
 3.Sales analysis
 4.Region-wise Customer Segmentation 
 
-and inference were made accordingly.
+and inference were made accordingly.  
