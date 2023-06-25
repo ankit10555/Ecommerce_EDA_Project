@@ -11,6 +11,6 @@ Dataset taken from Kaggle and these explorations were performed:
 
 3. Sales analysis
 
-4. Region-wise Customer Segmentation 
+4. Region-wise Customer Segmentation  
 
 And inferences were made accordingly... 
